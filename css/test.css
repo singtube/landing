@@ -1,3 +1,16 @@
 .wrap {
   padding: 80px calc(4% + 15px) !important;
 }
+
+.border-radius-video {
+  border-radius: 20px !important;
+  position: relative;
+  overflow: hidden;
+  background-color: coral;
+  width: 100px;
+  height: 580px !important;
+}
+
+.video {
+  position: relative;
+}
